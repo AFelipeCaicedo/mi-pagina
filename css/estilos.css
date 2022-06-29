@@ -7,7 +7,7 @@ body{
 }
 .caja{
     display: flex;
-    height:60vh;
+
 } 
 .ps{
     background-color:aquamarine ;
